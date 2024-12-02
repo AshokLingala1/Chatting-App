@@ -223,6 +223,10 @@ button.accent {
     text-align: center;
     padding: 15px;
     border-bottom: 1px solid #ececec;
+    
+}
+.heading{
+    background:#777;
 }
 
 .chat-header h2 {
